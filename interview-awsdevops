@@ -10,4 +10,4 @@ means "add to staging area" so it will be part of the next commit.
 – git reset HEAD -- filename (unstages the file)
 – git checkout -- filename (undoes your changes)
 – All these commands are acting on your local version of repo. 
-
+its alll about devops practice
